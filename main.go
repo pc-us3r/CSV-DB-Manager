@@ -12,7 +12,7 @@ import (
 	"strings"
 )
 
-// --- Блок команд + работа с файлами ---
+// --- Блок команд && работа с файлами ---
 
 func tableExists(tableName string) bool {
 	_, err := os.Stat(tableName)
