@@ -7,7 +7,7 @@ import (
 	"fyne.io/fyne/v2/theme"
 )
 
-// --- ТЕМА АПТЕЧНАЯ ЗЕЛЁНКА :) ---
+// --- ТЕМА АПТЕЧНАЯ ЗЕЛЁНКА :| ---
 
 type forestTheme struct{}
 
