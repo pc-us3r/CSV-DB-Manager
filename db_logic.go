@@ -340,7 +340,7 @@ func parseQuery(query string) (cmd, table string, args []string, err error) {
 	if len(parts) > 1 {
 		table = parts[1]
 	} else {
-		return "", "", nil, errors.New("не указано имя таблицы")
+		return "", "", nil, errors.New("не указано название таблицы")
 	}
 
 	switch cmd {
