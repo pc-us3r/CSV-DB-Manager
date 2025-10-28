@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+/build/
+
+csv-db-manager
+
+/vendor/
+
+.DS_Store
+Thumbs.db
