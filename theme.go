@@ -7,8 +7,6 @@ import (
 	"fyne.io/fyne/v2/theme"
 )
 
-// --- ТЕМА АПТЕЧНАЯ ЗЕЛЁНКА :| ---
-
 type forestTheme struct{}
 
 var _ fyne.Theme = (*forestTheme)(nil)
